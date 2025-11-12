@@ -1,4 +1,19 @@
 body {
-    margin: 6vw 20vw;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 2vw 10vw;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FFFFFF;
+    background-color: #484848;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: #FFFFFF;
+}
+
+img {
+  border-radius: 2%;
+  border: 10px solid #1F1F1F;
+}
+
