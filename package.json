@@ -4,7 +4,8 @@
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "go": "sudo npx @11ty/eleventy --serve" 
+    "go": "sudo npx @11ty/eleventy --serve", 
+    "build": "npm run build"
   },
   "keywords": [],
   "author": "",
